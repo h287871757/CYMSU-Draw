@@ -1,0 +1,43 @@
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\bin\Debug\CYMSU.exe.config
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\CYMSU.csprojResolveAssemblyReference.cache
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\CYMSU_MarkupCompile.cache
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\bin\Debug\CYMSU.exe
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\bin\Debug\CYMSU.pdb
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\MainWindow.g.cs
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\App.g.cs
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\CYMSU_MarkupCompile.lref
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\MainWindow.baml
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\CYMSU.g.resources
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\CYMSU.Properties.Resources.resources
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\CYMSU.csproj.GenerateResource.Cache
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\CYMSU.exe
+c:\users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\CYMSU.pdb
+C:\Users\hesid\Documents\Visual Studio 2015\Projects\CYMSU\CYMSU\obj\Debug\ReadWindow.g.cs
+C:\Users\hesid\Documents\Visual Studio 2015\Projects\CYMSU\CYMSU\obj\Debug\ReadWindow.baml
+C:\Users\hesid\Documents\Visual Studio 2015\Projects\CYMSU\CYMSU\obj\Debug\DrawWindow.g.cs
+C:\Users\hesid\Documents\Visual Studio 2015\Projects\CYMSU\CYMSU\obj\Debug\Window1.g.cs
+C:\Users\hesid\Documents\Visual Studio 2015\Projects\CYMSU\CYMSU\obj\Debug\DrawWindow.baml
+C:\Users\hesid\Documents\Visual Studio 2015\Projects\CYMSU\CYMSU\obj\Debug\Window1.baml
+C:\Users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\CYMSU.background.resources
+C:\Users\hesid\documents\visual studio 2015\Projects\CYMSU\CYMSU\obj\Debug\CYMSU.MusicRsc.resources
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\bin\Debug\CYMSU.exe.config
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\bin\Debug\CYMSU.exe
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\bin\Debug\CYMSU.pdb
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\CYMSU.csprojResolveAssemblyReference.cache
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\DrawWindow.g.cs
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\MainWindow.g.cs
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\ReadWindow.g.cs
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\App.g.cs
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\CYMSU_MarkupCompile.cache
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\CYMSU_MarkupCompile.lref
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\DrawWindow.baml
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\MainWindow.baml
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\ReadWindow.baml
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\CYMSU.g.resources
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\CYMSU.background.resources
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\CYMSU.MusicRsc.resources
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\CYMSU.Properties.Resources.resources
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\CYMSU.csproj.GenerateResource.Cache
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\CYMSU.csproj.CoreCompileInputs.cache
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\CYMSU.exe
+C:\Users\何思达的surface\Google 云端硬盘\Code\VS2017\CYMSU\CYMSU\obj\Debug\CYMSU.pdb
